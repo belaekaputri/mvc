@@ -1,9 +1,8 @@
-# mvc
+# To-do List (MVC)
 PHP VERSION 5.2.6 </br>
-To-do List (MVC)
-Program To-do List CRUD__ sederhana PHP dengan metode Model View Controller (MVC)
-Database name : dbharian ,
-Table name    : daftar_harian
+Program To-do List CRUD sederhana PHP dengan metode Model View Controller (MVC) </br>
+Database name : dbharian  </br>
+Table name    : daftar_harian  </br>
 
 # Screen Capture
 ![capture-20210316-175253](https://user-images.githubusercontent.com/50755376/111298719-aad63400-8681-11eb-849d-ab758ef883bc.png)
@@ -14,4 +13,4 @@ Table name    : daftar_harian
 jika ada folder yang menghilang, Aktifkan Mod_rewrite Di Apache XAMPP(https://kursuswebprogramming.com/cara-aktifkan-mod_rewrite-di-apache-xampp/)
 
 
-# &copy;2021 Bela Eka Putri :)
+# &copy; 2021 Bela Eka Putri :)
