@@ -1,7 +1,7 @@
 # mvc
 PHP VERSION 5.2.6
 To-do List (MVC)
-Program To-do List CRUD sederhana PHP dengan metode Model View Controller (MVC)
+Program To-do List CRUD__ sederhana PHP dengan metode Model View Controller (MVC)
 Database name : dbharian ,
 Table name    : daftar_harian
 
