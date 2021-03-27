@@ -13,4 +13,3 @@ Table name: daftar_harian  </br>
 jika ada folder yang menghilang, Aktifkan Mod_rewrite Di Apache XAMPP(https://kursuswebprogramming.com/cara-aktifkan-mod_rewrite-di-apache-xampp/)
 
 
-# &copy; 2021 Bela Eka Putri :)
