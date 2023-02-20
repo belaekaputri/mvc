@@ -10,7 +10,7 @@ Table name: daftar_harian  </br>
 ![capture-20210316-175528](https://user-images.githubusercontent.com/50755376/111299506-96466b80-8682-11eb-96f4-76f6da46f641.png) </br>
 
 # ERROR
-[jika ada folder yang menghilang, Aktifkan Mod_rewrite Di Apache XAMPP](https://kursuswebprogramming.com/cara-aktifkan-mod_rewrite-di-apache-xampp/)
+[Jika ada folder yang hilang, Aktifkan Mod_rewrite Di Apache XAMPP](https://kursuswebprogramming.com/cara-aktifkan-mod_rewrite-di-apache-xampp/)
 
 # Playlist MVC
 [Untuk Penjelasan dan detailnya tentang MVC PHP kunjungi Playlist MVC dari Web Programming Unpas :)](https://www.youtube.com/watch?v=tBKOb8Ib5nI&list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx)
